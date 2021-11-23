@@ -7,3 +7,8 @@
 - 🌐  My site: https://thrc.site
 - 📧  My Mail - [osnixeroo@gmail.com](mailto:osnixeroo@gmail.com)
 
+
+<br>
+<b align="left">Statistics</b>
+<br>
+<img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=Osnixeroo&count_private=true&show_icons=true" />
