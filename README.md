@@ -11,4 +11,4 @@
 <br>
 <b align="left">Statistics</b>
 <br>
-<img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=Osnixeroo&count_private=true&show_icons=true" />
+<img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=Osnixer&count_private=true&show_icons=true" />
