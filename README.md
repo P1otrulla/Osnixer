@@ -3,8 +3,7 @@
 - 💎  I'm 19 years old, interested in programming since 6 years.
 - 🛠   I'm currently doing projects for clients,
 - 💬  My discord Osnixer#0001,
-- 🎊  My server - https://dicord.thrc.site
-- 🌐  My site: https://thrc.site
+- 🎊  EternalCode.pl - https://discord.gg/NvZ6apa5sJ
 - 📧  My Mail - [osnixeroo@gmail.com](mailto:osnixeroo@gmail.com)
 
 
