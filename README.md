@@ -7,7 +7,11 @@
 - 📧  My Mail - [osnixeroo@gmail.com](mailto:osnixeroo@gmail.com)
 
 
-<br>
-<b align="left">Statistics</b>
-<br>
-<img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=Osnixer&count_private=true&show_icons=true" />
+![Stats](https://github-readme-stats.vercel.app/api?username=Osnixer&count_private=true&show_icons=true)
+
+
+
+
+
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=21xnnlga4qhsymnkgueqf3p7a)
+
